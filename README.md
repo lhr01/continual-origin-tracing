@@ -5,7 +5,7 @@
   </div>
 
   <div>
-      Haoran Li*&emsp; Quan Wang*&emsp; 
+      Haoran Li&emsp; Quan Wang*&emsp; 
   </div>
   <br/>
 
